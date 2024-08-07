@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Running the Program:
 
-1. Fork the repository [repolink] (https://github.com/etheridgem/airline)
+1. Fork the repository: (https://github.com/etheridgem/airline)
 2. Clone the repository to your Github
 3. Access the repository from your command line or preferred CMD software
 4. Install a virtual environment. Below are directions are how to install per your machine:
