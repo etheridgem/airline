@@ -1,0 +1,1001 @@
+Passenger ID,Gender,Age,Flight Class,Seat Comfort,Departure/Arrival Time Conv.,Food and Drink,Inflight Entertainment,Leg Room Service,Baggage Handling,Cleanliness,Departure Delay in Minutes,Arrival Delay in Minutes,Satisfaction
+2,F,36,Business,4,5,5,2,5,2,2,56,117,Unsatisfied
+3,M,56,First Class,5,3,2,4,5,2,3,17,23,Unsatisfied
+4,M,57,First Class,1,3,3,3,2,4,4,113,31,Satisfied
+5,M,57,Premium Economy,5,5,2,2,5,5,4,79,77,Unsatisfied
+6,F,28,Economy,5,2,4,1,2,5,2,115,25,Unsatisfied
+7,F,74,Premium Economy,1,3,2,3,2,3,4,7,31,Satisfied
+8,M,71,Economy,2,2,3,1,5,5,3,104,36,Unsatisfied
+9,F,71,Economy,4,4,2,1,1,5,5,15,77,Unsatisfied
+10,F,30,Premium Economy,4,2,4,4,5,4,5,71,111,Neutral
+11,M,44,Business,1,1,2,3,5,1,1,25,92,Neutral
+12,M,22,Economy,2,4,3,3,2,5,4,17,98,Unsatisfied
+13,F,19,Economy,5,1,4,4,1,2,2,42,84,Unsatisfied
+14,F,40,Economy,1,5,5,2,2,5,2,115,35,Neutral
+15,M,72,Premium Economy,3,2,1,1,3,4,2,68,27,Unsatisfied
+16,F,55,First Class,2,2,3,3,3,4,4,120,96,Neutral
+17,F,78,Business,3,5,5,4,4,2,1,66,71,Satisfied
+18,M,62,First Class,5,2,5,4,2,3,2,0,63,Neutral
+19,F,40,Economy,4,2,2,2,1,3,4,18,70,Unsatisfied
+20,M,53,Premium Economy,4,2,4,3,4,4,3,50,101,Satisfied
+21,M,35,First Class,4,1,3,4,1,5,2,104,0,Neutral
+22,F,44,Economy,5,4,3,2,1,4,4,18,78,Neutral
+23,F,23,Business,4,1,1,2,3,4,5,109,70,Unsatisfied
+24,M,55,Business,1,1,2,3,5,2,2,32,30,Satisfied
+25,M,26,Premium Economy,3,5,3,1,3,4,3,0,38,Neutral
+26,F,37,Premium Economy,5,5,3,2,3,5,4,74,80,Satisfied
+27,M,59,Economy,4,5,1,2,2,3,3,18,3,Unsatisfied
+28,M,37,Premium Economy,2,1,4,5,3,4,4,32,64,Neutral
+29,F,46,Business,4,3,4,4,2,2,2,117,56,Unsatisfied
+30,F,41,Business,3,2,5,3,2,4,3,11,19,Satisfied
+31,M,37,Premium Economy,5,5,1,4,4,3,1,60,50,Neutral
+32,F,18,Premium Economy,5,2,5,5,1,3,5,15,96,Satisfied
+33,F,47,Economy,4,2,2,5,1,5,5,94,16,Unsatisfied
+34,M,45,Business,5,1,3,1,2,2,4,55,11,Satisfied
+35,F,18,Business,4,2,2,3,2,5,1,19,21,Satisfied
+36,M,26,Premium Economy,1,1,3,1,5,1,3,10,23,Satisfied
+37,F,51,First Class,2,5,4,5,5,5,2,106,0,Unsatisfied
+38,M,69,First Class,2,2,2,5,3,2,5,4,28,Satisfied
+39,F,75,Premium Economy,2,4,2,4,4,5,5,57,103,Satisfied
+40,M,22,Premium Economy,3,1,3,1,1,3,5,32,43,Neutral
+41,F,43,Economy,3,3,1,3,4,1,1,14,23,Satisfied
+42,M,64,Business,4,4,4,1,1,2,2,27,101,Unsatisfied
+43,F,39,Premium Economy,4,1,1,4,5,4,2,43,96,Satisfied
+44,F,63,Premium Economy,2,3,3,5,3,5,5,31,70,Neutral
+45,M,64,Business,1,5,4,2,5,4,2,19,83,Satisfied
+46,M,54,Premium Economy,1,3,4,3,2,5,2,16,7,Satisfied
+47,M,48,Economy,4,1,4,5,1,3,4,79,88,Neutral
+48,M,61,Business,1,4,5,2,2,2,1,51,78,Neutral
+49,M,60,Business,5,2,4,2,1,4,5,5,17,Unsatisfied
+50,M,36,Economy,4,4,3,5,1,3,2,96,60,Unsatisfied
+51,M,46,First Class,3,1,5,2,4,1,1,66,93,Satisfied
+52,M,36,First Class,1,3,3,4,1,1,2,110,102,Neutral
+53,F,34,Business,2,2,1,3,4,5,1,37,116,Unsatisfied
+54,F,43,Business,1,1,2,3,3,2,4,95,0,Unsatisfied
+55,F,27,Economy,3,4,4,1,5,5,3,74,88,Neutral
+56,F,22,Economy,4,5,1,2,2,4,2,23,34,Unsatisfied
+57,M,25,Economy,2,5,5,5,5,1,5,92,31,Satisfied
+58,F,28,Premium Economy,3,1,4,2,5,5,4,64,70,Unsatisfied
+59,M,24,First Class,4,2,5,4,5,2,2,21,32,Unsatisfied
+60,M,31,First Class,4,2,5,3,5,1,4,53,74,Satisfied
+61,M,38,First Class,2,5,1,2,1,2,5,103,55,Unsatisfied
+62,F,69,Economy,4,4,3,5,3,3,4,120,84,Satisfied
+63,F,52,First Class,2,3,1,1,2,1,2,69,8,Neutral
+64,M,52,Business,2,4,2,3,3,1,4,60,102,Satisfied
+65,M,46,Premium Economy,5,2,1,1,5,2,1,81,44,Neutral
+66,M,66,First Class,1,3,5,2,2,1,2,22,115,Satisfied
+67,F,40,Economy,4,1,1,5,3,3,2,39,16,Satisfied
+68,M,45,Economy,5,1,4,1,2,3,5,27,96,Satisfied
+69,M,41,Premium Economy,4,3,4,5,2,2,3,4,3,Neutral
+70,M,67,First Class,3,5,3,1,4,3,5,33,107,Unsatisfied
+71,F,80,Premium Economy,4,1,3,3,4,3,5,96,108,Satisfied
+72,M,31,Premium Economy,2,2,1,5,5,1,2,40,118,Satisfied
+73,M,32,Premium Economy,4,5,5,5,2,1,1,109,24,Neutral
+74,M,71,First Class,4,4,4,4,4,5,4,67,109,Satisfied
+75,M,55,Premium Economy,1,3,5,3,4,3,4,73,117,Neutral
+76,F,61,Business,1,4,3,5,3,3,2,40,72,Neutral
+77,M,56,Business,5,3,5,3,1,3,3,86,13,Unsatisfied
+78,F,59,First Class,3,4,2,5,1,4,1,75,44,Unsatisfied
+79,F,46,Premium Economy,3,3,2,4,2,5,2,105,62,Unsatisfied
+80,M,39,Premium Economy,4,1,4,4,5,1,2,116,42,Unsatisfied
+81,M,74,Economy,3,3,3,4,2,1,5,79,66,Satisfied
+82,F,30,Premium Economy,4,3,3,4,1,5,3,80,72,Unsatisfied
+83,F,58,Business,1,3,2,1,3,3,4,111,74,Unsatisfied
+84,F,76,Economy,5,4,5,2,1,1,2,111,98,Neutral
+85,F,54,Business,5,2,4,5,4,4,5,87,77,Satisfied
+86,F,45,Economy,2,2,2,4,4,3,4,80,64,Neutral
+87,M,55,Business,4,4,2,5,3,4,3,88,4,Satisfied
+88,M,62,Business,3,2,1,3,1,4,4,77,37,Unsatisfied
+89,M,67,Economy,2,1,2,4,5,1,4,105,8,Satisfied
+90,F,46,Business,1,3,5,4,2,4,2,24,53,Neutral
+91,F,56,Business,4,3,5,1,1,5,4,15,58,Satisfied
+92,M,40,Business,4,2,4,1,2,2,2,119,73,Unsatisfied
+93,F,80,Premium Economy,3,3,5,1,2,4,2,120,68,Satisfied
+94,M,30,Business,4,2,4,4,4,4,1,53,87,Unsatisfied
+95,M,69,First Class,5,4,2,2,2,3,4,56,97,Unsatisfied
+96,F,18,Premium Economy,3,2,3,5,3,1,3,114,51,Satisfied
+97,F,23,Economy,5,5,5,3,1,3,5,107,59,Neutral
+98,F,21,Premium Economy,2,5,4,2,4,5,2,94,110,Unsatisfied
+99,F,76,Premium Economy,5,2,5,5,4,3,2,117,58,Satisfied
+100,F,50,Business,4,3,4,3,2,5,4,93,82,Unsatisfied
+101,M,55,Premium Economy,1,4,4,3,3,1,1,50,54,Neutral
+102,M,57,Business,1,5,4,2,3,3,5,96,55,Satisfied
+103,M,55,First Class,5,4,3,4,2,2,3,119,20,Satisfied
+104,F,24,First Class,1,2,2,1,4,2,4,22,99,Unsatisfied
+105,F,60,Premium Economy,3,1,4,1,4,2,3,110,14,Unsatisfied
+106,F,74,First Class,5,3,1,1,4,4,2,87,89,Satisfied
+107,M,60,Business,2,4,3,1,3,1,2,7,48,Satisfied
+108,M,41,First Class,5,3,1,4,4,1,4,62,87,Neutral
+109,F,41,Business,1,1,5,2,3,3,1,55,54,Unsatisfied
+110,F,23,Business,3,1,2,3,4,4,5,13,61,Satisfied
+111,M,77,Business,4,5,2,5,2,1,5,63,14,Neutral
+112,F,27,Business,1,5,5,1,2,2,2,82,69,Neutral
+113,F,26,Business,2,1,2,1,4,4,2,88,59,Satisfied
+114,F,51,First Class,1,4,3,1,4,1,5,21,60,Neutral
+115,F,30,Premium Economy,1,3,5,2,3,1,4,58,93,Neutral
+116,F,53,Economy,2,4,3,1,5,2,3,69,26,Neutral
+117,M,76,Business,2,3,2,4,2,2,4,82,92,Neutral
+118,M,53,Premium Economy,3,1,1,1,3,4,2,109,117,Unsatisfied
+119,F,20,Economy,2,2,5,1,4,2,3,113,56,Satisfied
+120,M,21,Business,2,3,1,4,4,2,2,4,66,Unsatisfied
+121,F,64,Economy,2,1,2,4,5,2,1,12,40,Neutral
+122,F,68,Economy,2,3,2,5,4,1,4,35,5,Unsatisfied
+123,F,48,Economy,5,4,5,2,1,5,2,95,113,Satisfied
+124,F,44,Business,4,4,3,4,3,2,2,25,87,Unsatisfied
+125,M,35,Premium Economy,2,5,1,5,3,1,3,27,3,Satisfied
+126,F,29,Economy,1,5,4,2,1,1,3,51,118,Neutral
+127,F,76,First Class,2,5,4,2,4,3,3,17,54,Unsatisfied
+128,F,54,Economy,3,5,2,3,2,4,3,25,6,Satisfied
+129,F,60,Premium Economy,3,4,4,5,3,4,3,114,41,Neutral
+130,F,69,First Class,4,5,3,3,4,3,1,84,20,Satisfied
+131,M,49,Business,4,5,2,1,1,1,5,105,19,Satisfied
+132,M,56,First Class,4,5,1,3,1,1,3,53,63,Unsatisfied
+133,F,20,Economy,3,3,1,1,5,4,4,12,96,Unsatisfied
+134,M,33,Economy,2,1,5,3,5,5,5,77,5,Unsatisfied
+135,M,75,Economy,5,3,3,3,3,2,5,35,113,Unsatisfied
+136,F,21,Economy,2,5,4,2,2,5,1,47,116,Unsatisfied
+137,M,80,Economy,5,5,4,1,2,2,3,55,60,Neutral
+138,M,57,Premium Economy,3,4,5,2,2,4,1,101,33,Satisfied
+139,F,44,First Class,1,3,5,4,4,2,3,34,77,Unsatisfied
+140,F,37,Business,1,5,1,4,2,2,4,113,87,Satisfied
+141,M,71,Premium Economy,3,5,4,2,3,5,4,87,88,Neutral
+142,M,38,Premium Economy,1,4,4,3,3,3,5,78,21,Neutral
+143,M,67,Business,5,3,2,2,2,5,4,95,16,Neutral
+144,M,43,Economy,3,2,3,5,2,2,3,49,66,Satisfied
+145,F,45,Premium Economy,3,2,3,1,4,3,5,85,30,Satisfied
+146,F,18,Economy,2,2,3,1,3,1,2,100,118,Satisfied
+147,F,69,First Class,5,4,3,1,3,4,3,12,39,Unsatisfied
+148,M,28,Business,2,2,2,1,2,1,1,75,78,Neutral
+149,F,24,Economy,5,2,3,3,1,4,5,58,88,Unsatisfied
+150,F,32,Business,2,5,5,3,1,5,3,95,67,Neutral
+151,M,45,Economy,3,2,3,1,4,5,3,77,50,Satisfied
+152,F,53,Economy,2,4,1,2,5,3,3,85,108,Unsatisfied
+153,F,68,First Class,3,2,3,1,4,4,5,11,39,Satisfied
+154,M,50,Economy,5,2,4,4,2,4,4,64,48,Neutral
+155,M,65,Economy,3,2,3,1,5,4,2,119,73,Satisfied
+156,M,59,First Class,4,3,5,4,2,4,5,36,50,Satisfied
+157,F,46,Business,3,1,5,4,5,5,5,76,111,Neutral
+158,M,37,Premium Economy,4,1,2,1,4,4,3,113,89,Unsatisfied
+159,F,36,Business,1,4,4,5,3,5,2,66,25,Satisfied
+160,F,32,First Class,1,1,2,2,4,1,5,87,89,Satisfied
+161,F,76,Economy,1,1,1,2,5,2,5,91,50,Neutral
+162,M,37,First Class,2,3,2,2,5,5,2,45,50,Satisfied
+163,F,39,First Class,3,4,2,3,4,2,3,92,51,Satisfied
+164,M,35,Premium Economy,4,1,2,1,4,2,4,106,102,Unsatisfied
+165,F,20,Premium Economy,3,5,3,1,5,1,5,1,95,Neutral
+166,F,67,First Class,1,4,5,4,4,3,1,29,56,Unsatisfied
+167,F,63,First Class,1,1,3,4,1,4,1,111,87,Unsatisfied
+168,M,48,Premium Economy,4,4,3,5,1,2,3,49,112,Satisfied
+169,M,49,Economy,4,5,4,3,5,4,4,40,45,Satisfied
+170,F,65,First Class,5,4,2,3,1,4,3,93,71,Unsatisfied
+171,F,56,Premium Economy,4,1,1,4,1,1,5,1,68,Neutral
+172,M,32,Economy,4,1,2,5,3,1,3,16,115,Neutral
+173,M,60,Economy,3,3,4,4,1,5,2,95,99,Satisfied
+174,F,62,Premium Economy,1,4,5,2,3,2,3,92,114,Satisfied
+175,M,74,Economy,5,1,2,4,5,2,1,53,110,Unsatisfied
+176,F,31,Business,5,5,3,2,1,5,5,31,30,Neutral
+177,F,45,First Class,1,1,2,5,1,3,1,60,90,Unsatisfied
+178,M,24,Economy,5,1,5,1,5,4,1,75,96,Unsatisfied
+179,M,55,First Class,5,3,4,1,3,4,2,23,118,Unsatisfied
+180,F,59,Economy,1,3,5,5,1,4,5,19,82,Unsatisfied
+181,F,62,First Class,4,2,3,2,3,3,2,20,21,Unsatisfied
+182,M,19,Premium Economy,4,5,4,5,3,5,2,62,53,Satisfied
+183,F,80,Premium Economy,5,3,3,4,4,1,1,62,23,Unsatisfied
+184,M,21,Premium Economy,5,3,2,2,4,4,2,3,64,Satisfied
+185,M,78,Economy,4,2,5,3,4,2,2,57,43,Satisfied
+186,M,47,Business,1,2,1,1,2,3,5,112,99,Neutral
+187,F,74,Business,3,5,4,2,5,4,3,109,76,Neutral
+188,F,22,First Class,4,1,1,1,3,1,1,26,99,Unsatisfied
+189,M,52,Premium Economy,1,1,5,1,3,5,3,97,110,Unsatisfied
+190,M,60,First Class,1,5,5,3,3,2,3,49,37,Satisfied
+191,F,60,Business,5,2,4,2,2,5,4,19,35,Neutral
+192,F,73,Business,2,3,5,1,3,1,3,6,102,Neutral
+193,F,31,First Class,3,5,4,3,5,3,4,48,39,Satisfied
+194,F,58,Business,5,1,3,4,1,1,1,67,18,Unsatisfied
+195,M,40,Premium Economy,4,2,1,4,1,1,4,52,4,Unsatisfied
+196,F,68,Premium Economy,2,1,4,5,4,1,2,113,35,Neutral
+197,F,77,Business,2,4,3,5,2,1,5,86,86,Satisfied
+198,F,55,Economy,2,2,1,4,4,3,2,50,88,Neutral
+199,F,69,First Class,4,4,5,2,5,2,4,79,4,Satisfied
+200,F,73,Business,3,4,2,5,2,1,4,13,82,Unsatisfied
+201,F,71,First Class,4,5,2,4,5,5,1,77,9,Satisfied
+202,M,19,Economy,4,5,4,4,3,1,1,117,115,Neutral
+203,M,57,First Class,3,3,1,5,2,5,4,51,49,Unsatisfied
+204,F,59,First Class,1,2,4,2,1,3,5,41,34,Satisfied
+205,F,40,Economy,1,2,4,5,1,5,5,63,66,Neutral
+206,M,64,Business,2,4,3,2,5,2,3,29,94,Neutral
+207,M,79,Economy,4,2,1,2,5,5,3,53,109,Satisfied
+208,M,21,Business,1,2,3,5,5,4,1,65,24,Neutral
+209,F,41,Business,1,1,3,3,5,3,3,56,34,Unsatisfied
+210,M,19,Business,5,1,1,3,1,5,4,4,12,Satisfied
+211,F,34,Premium Economy,3,2,5,3,2,5,1,8,99,Unsatisfied
+212,F,45,Business,4,4,1,4,5,3,1,63,18,Satisfied
+213,F,53,First Class,1,1,4,2,3,4,4,23,43,Unsatisfied
+214,F,31,Premium Economy,2,3,5,3,1,5,5,47,69,Unsatisfied
+215,F,80,Economy,1,1,2,3,4,4,3,108,41,Unsatisfied
+216,M,50,Economy,1,1,1,3,5,2,5,0,57,Unsatisfied
+217,M,40,Premium Economy,5,3,2,1,5,1,2,38,29,Satisfied
+218,M,19,Business,2,1,2,3,5,5,1,45,70,Unsatisfied
+219,F,52,Business,2,2,3,2,4,2,1,38,114,Unsatisfied
+220,M,24,First Class,5,2,1,5,5,5,3,104,64,Satisfied
+221,M,52,Premium Economy,4,4,4,3,1,1,1,109,43,Satisfied
+222,F,55,Economy,1,1,3,4,4,3,1,55,33,Satisfied
+223,F,70,Economy,1,1,2,5,3,4,1,67,118,Satisfied
+224,M,39,Business,3,5,5,5,3,3,2,81,63,Unsatisfied
+225,F,39,First Class,3,4,3,2,4,3,4,40,115,Satisfied
+226,M,74,Premium Economy,5,3,2,1,5,2,1,66,78,Unsatisfied
+227,M,41,Business,1,4,3,4,2,4,2,22,50,Satisfied
+228,F,35,Business,3,5,2,5,2,5,5,104,60,Unsatisfied
+229,F,24,First Class,5,3,4,2,2,2,3,119,82,Unsatisfied
+230,F,25,Premium Economy,5,2,4,5,5,1,2,22,86,Satisfied
+231,F,65,Premium Economy,4,4,2,1,2,2,2,48,3,Satisfied
+232,F,37,First Class,5,1,5,4,1,1,4,66,10,Unsatisfied
+233,F,41,First Class,2,1,3,5,1,4,2,63,0,Satisfied
+234,F,57,First Class,3,3,1,3,4,1,1,3,2,Unsatisfied
+235,M,41,Business,4,1,4,3,2,1,4,37,14,Satisfied
+236,F,71,Premium Economy,4,5,3,1,4,3,5,44,15,Satisfied
+237,M,66,Economy,1,4,2,2,5,2,5,82,0,Neutral
+238,F,64,Economy,3,1,2,4,1,3,4,7,76,Satisfied
+239,F,69,First Class,4,2,5,1,1,5,2,99,54,Satisfied
+240,F,57,Economy,1,4,5,2,2,1,1,12,0,Satisfied
+241,F,39,Premium Economy,2,5,3,4,2,2,4,11,112,Satisfied
+242,F,67,Business,1,1,2,1,1,4,2,120,63,Satisfied
+243,M,55,Economy,5,1,2,5,5,3,3,103,96,Neutral
+244,M,34,Premium Economy,1,3,1,2,1,2,5,6,63,Satisfied
+245,F,32,Economy,5,1,3,4,4,1,4,8,111,Satisfied
+246,F,56,First Class,1,5,3,4,3,3,5,87,48,Satisfied
+247,M,51,Premium Economy,4,4,4,3,4,3,2,100,49,Satisfied
+248,M,27,Economy,4,4,3,3,3,4,1,107,17,Unsatisfied
+249,M,51,Premium Economy,4,5,4,2,5,2,1,44,22,Satisfied
+250,F,66,Economy,5,3,3,2,3,1,1,49,14,Unsatisfied
+251,M,41,Economy,1,1,4,1,3,2,4,83,120,Unsatisfied
+252,M,27,Business,1,5,5,1,2,1,1,87,112,Unsatisfied
+253,F,66,Economy,5,2,3,4,2,3,1,71,81,Unsatisfied
+254,F,18,Business,4,5,5,5,1,1,4,103,33,Unsatisfied
+255,M,25,Premium Economy,2,4,2,1,4,4,2,70,35,Unsatisfied
+256,M,26,Business,2,3,3,1,4,5,4,106,14,Satisfied
+257,F,64,First Class,4,4,1,2,3,2,3,27,88,Satisfied
+258,F,69,Business,1,1,3,3,1,2,4,100,107,Satisfied
+259,M,63,Business,4,3,5,3,5,3,1,71,35,Satisfied
+260,F,68,Premium Economy,4,5,3,2,3,3,5,16,7,Satisfied
+261,F,57,First Class,1,5,2,4,3,4,2,38,31,Neutral
+262,F,52,First Class,2,2,5,5,1,3,1,70,69,Neutral
+263,M,56,Economy,3,2,2,1,2,2,2,1,59,Neutral
+264,F,72,Premium Economy,1,1,1,2,2,1,3,46,93,Satisfied
+265,F,50,Business,3,1,4,4,4,2,5,98,99,Neutral
+266,M,65,Premium Economy,2,5,3,2,4,2,4,94,3,Satisfied
+267,F,24,Economy,3,4,4,4,2,5,4,70,19,Neutral
+268,M,62,First Class,4,1,2,2,5,2,5,105,95,Neutral
+269,M,18,Economy,3,3,5,1,2,1,2,46,89,Neutral
+270,M,34,Premium Economy,3,3,4,1,4,1,1,93,39,Satisfied
+271,M,48,First Class,1,2,1,3,2,5,2,7,109,Unsatisfied
+272,M,19,First Class,3,3,3,3,3,5,5,2,79,Unsatisfied
+273,M,26,Premium Economy,3,3,5,5,2,1,3,35,109,Satisfied
+274,M,31,First Class,4,1,2,5,4,2,1,55,19,Satisfied
+275,F,70,Premium Economy,1,2,1,5,2,3,3,6,84,Unsatisfied
+276,M,29,Economy,4,3,3,1,5,5,3,72,40,Satisfied
+277,M,75,Economy,2,3,5,5,5,1,1,40,83,Neutral
+278,F,26,Business,3,3,2,4,3,1,3,55,37,Neutral
+279,M,26,First Class,2,1,1,2,5,4,3,64,26,Unsatisfied
+280,F,77,First Class,3,5,1,3,1,4,4,75,82,Unsatisfied
+281,M,53,First Class,2,4,3,4,5,3,2,77,20,Satisfied
+282,M,34,Economy,3,1,1,5,2,4,1,25,98,Neutral
+283,F,68,First Class,1,2,2,1,5,1,3,56,36,Satisfied
+284,M,30,Premium Economy,3,3,4,3,5,1,3,4,84,Satisfied
+285,F,44,Business,3,2,4,4,4,3,2,73,32,Unsatisfied
+286,M,50,Business,2,4,2,1,2,5,2,9,77,Satisfied
+287,F,73,Premium Economy,4,2,4,1,5,1,5,39,76,Neutral
+288,F,68,First Class,5,3,4,1,5,2,1,95,48,Satisfied
+289,F,57,Business,3,2,2,4,1,3,4,1,80,Unsatisfied
+290,M,41,Business,5,4,1,2,2,4,1,95,106,Satisfied
+291,F,26,Economy,2,4,3,5,5,5,2,8,91,Neutral
+292,F,41,Economy,4,4,4,5,4,2,2,47,66,Neutral
+293,F,71,Economy,3,5,2,2,4,1,5,71,18,Unsatisfied
+294,F,57,Business,1,2,2,4,4,1,4,109,33,Unsatisfied
+295,M,58,First Class,2,5,5,2,3,1,4,85,0,Neutral
+296,M,20,Economy,2,3,2,2,4,3,1,85,70,Unsatisfied
+297,F,35,Premium Economy,4,3,3,5,1,2,5,8,119,Neutral
+298,M,67,Economy,4,5,5,3,1,1,3,79,99,Neutral
+299,M,56,Economy,4,2,5,2,3,4,5,75,61,Neutral
+300,F,60,Business,5,1,1,1,2,3,5,75,30,Satisfied
+301,M,51,Premium Economy,4,2,3,5,2,5,4,91,115,Satisfied
+302,F,79,Business,2,2,5,5,4,2,5,113,5,Satisfied
+303,F,45,First Class,3,3,4,4,5,5,3,104,103,Satisfied
+304,F,62,Premium Economy,1,4,5,3,3,5,3,48,100,Neutral
+305,M,45,First Class,5,4,1,2,2,2,3,98,99,Satisfied
+306,F,36,Premium Economy,4,1,4,4,4,3,5,39,24,Neutral
+307,F,36,First Class,5,3,3,3,1,4,1,25,61,Satisfied
+308,F,52,Premium Economy,3,2,3,1,5,4,2,43,8,Satisfied
+309,M,77,Business,3,5,4,2,5,5,2,31,46,Satisfied
+310,F,71,Premium Economy,2,1,5,3,4,3,2,45,6,Satisfied
+311,M,40,Premium Economy,2,3,5,2,5,3,2,80,0,Satisfied
+312,M,78,Premium Economy,4,4,1,5,1,5,2,81,108,Unsatisfied
+313,M,70,First Class,3,5,1,3,4,4,2,77,66,Satisfied
+314,F,24,First Class,5,2,1,2,3,4,1,100,110,Satisfied
+315,M,35,Economy,4,3,1,3,2,4,3,95,6,Unsatisfied
+316,M,56,Business,3,1,2,3,4,2,2,5,113,Satisfied
+317,F,80,Economy,3,5,1,5,4,1,4,9,49,Unsatisfied
+318,M,68,Premium Economy,4,3,1,2,2,2,5,103,27,Satisfied
+319,F,37,First Class,1,1,4,3,4,5,1,119,50,Satisfied
+320,F,49,Business,3,4,5,2,3,5,2,106,54,Neutral
+321,F,29,Business,5,3,1,1,2,4,2,58,2,Unsatisfied
+322,M,78,First Class,2,5,3,2,1,5,3,38,90,Satisfied
+323,M,61,First Class,2,3,3,4,2,2,5,52,16,Neutral
+324,M,65,Business,5,2,2,2,3,4,4,9,102,Unsatisfied
+325,M,25,Economy,3,1,2,4,2,3,5,46,88,Unsatisfied
+326,F,56,Premium Economy,2,2,1,4,4,2,3,49,93,Unsatisfied
+327,M,75,Business,3,3,3,4,1,3,2,90,73,Satisfied
+328,F,21,Business,1,2,3,5,5,5,1,97,110,Unsatisfied
+329,F,80,Economy,3,3,1,5,2,2,5,104,70,Neutral
+330,M,58,Business,5,3,5,5,3,5,1,105,105,Satisfied
+331,F,71,Business,2,5,1,4,5,4,3,22,79,Neutral
+332,M,35,First Class,5,5,3,2,2,3,1,11,102,Unsatisfied
+333,M,41,Business,5,3,2,3,4,3,1,79,80,Satisfied
+334,M,32,First Class,2,2,2,1,1,1,3,20,106,Satisfied
+335,M,58,Business,3,3,5,4,2,5,5,78,111,Satisfied
+336,F,68,Premium Economy,1,1,2,4,1,1,2,87,72,Unsatisfied
+337,M,36,Premium Economy,4,5,3,4,1,5,2,36,106,Unsatisfied
+338,M,67,Economy,2,3,4,5,1,3,3,27,116,Satisfied
+339,M,60,Premium Economy,3,3,1,5,4,4,4,67,52,Satisfied
+340,F,24,Premium Economy,4,3,4,1,2,2,4,3,93,Satisfied
+341,M,73,Economy,3,1,2,4,2,4,3,63,3,Unsatisfied
+342,F,38,Business,1,5,2,4,5,3,4,102,53,Satisfied
+343,F,42,First Class,5,5,4,2,2,5,4,58,31,Neutral
+344,M,29,Premium Economy,4,5,5,1,2,1,4,37,44,Neutral
+345,F,43,Business,5,2,5,3,1,5,3,78,52,Satisfied
+346,F,73,First Class,2,1,3,1,5,1,3,38,38,Unsatisfied
+347,M,37,Premium Economy,3,4,2,5,5,3,4,79,63,Satisfied
+348,M,49,Economy,2,1,5,3,3,3,1,46,72,Unsatisfied
+349,M,32,Economy,1,5,3,3,5,5,2,44,5,Unsatisfied
+350,F,67,Business,4,5,3,3,1,5,1,14,10,Unsatisfied
+351,F,30,Premium Economy,4,5,5,5,4,3,4,19,73,Neutral
+352,F,21,First Class,5,5,5,2,4,2,4,66,34,Satisfied
+353,M,73,Premium Economy,3,1,2,3,2,3,1,93,49,Satisfied
+354,F,61,First Class,1,1,4,5,3,5,2,85,16,Neutral
+355,M,51,Premium Economy,4,4,2,3,5,5,4,75,49,Unsatisfied
+356,F,48,Premium Economy,3,5,2,3,3,5,3,68,37,Neutral
+357,M,59,Business,2,5,4,1,2,2,3,22,13,Satisfied
+358,F,36,Economy,1,5,5,1,3,4,2,90,24,Unsatisfied
+359,M,53,Premium Economy,5,2,5,1,1,1,2,77,116,Unsatisfied
+360,F,45,Premium Economy,2,5,3,5,4,4,5,59,12,Neutral
+361,M,80,First Class,5,1,3,2,3,4,2,36,8,Unsatisfied
+362,F,73,Premium Economy,4,4,4,3,5,4,5,57,68,Satisfied
+363,F,67,Business,1,4,1,1,2,3,3,36,47,Satisfied
+364,M,42,Premium Economy,5,4,3,2,2,5,1,48,85,Neutral
+365,M,45,Economy,4,2,3,5,4,2,5,46,87,Satisfied
+366,M,21,Business,1,2,2,2,5,4,1,46,15,Unsatisfied
+367,F,68,Premium Economy,2,1,1,4,3,1,4,80,110,Unsatisfied
+368,M,49,Business,3,5,2,3,2,5,4,93,103,Satisfied
+369,M,77,Economy,5,4,5,5,3,2,3,60,100,Satisfied
+370,F,28,First Class,5,5,5,1,5,4,5,25,103,Unsatisfied
+371,M,29,Business,3,1,5,3,4,2,2,106,97,Neutral
+372,M,18,Premium Economy,3,4,2,2,5,3,2,11,59,Unsatisfied
+373,F,50,Business,4,2,3,3,1,3,3,107,14,Neutral
+374,F,54,Business,4,1,4,5,3,5,3,109,85,Satisfied
+375,F,47,First Class,2,3,5,3,5,3,5,95,85,Satisfied
+376,M,65,Premium Economy,3,3,2,5,3,2,2,20,107,Neutral
+377,F,26,Economy,4,5,1,5,3,2,4,117,89,Satisfied
+378,F,61,Business,4,4,3,2,3,3,4,43,60,Satisfied
+379,M,75,Premium Economy,4,5,1,1,1,4,1,84,15,Unsatisfied
+380,F,63,Economy,4,2,2,1,1,2,1,85,109,Unsatisfied
+381,F,69,Business,2,5,4,3,4,4,5,100,113,Unsatisfied
+382,F,77,Premium Economy,4,3,5,3,4,2,2,34,87,Unsatisfied
+383,M,21,Premium Economy,1,4,4,1,1,1,4,53,20,Satisfied
+384,M,75,First Class,2,1,2,5,4,1,4,81,20,Satisfied
+385,F,44,Premium Economy,4,3,5,5,2,3,4,1,105,Neutral
+386,M,51,Premium Economy,2,2,4,4,3,3,5,34,36,Satisfied
+387,F,66,Economy,1,4,5,4,3,1,5,82,110,Neutral
+388,M,30,Economy,1,3,2,1,5,4,2,29,75,Neutral
+389,F,70,First Class,1,1,1,2,2,3,2,44,108,Neutral
+390,M,29,Economy,4,1,1,5,3,4,4,59,92,Neutral
+391,M,48,First Class,1,5,1,4,2,3,3,119,77,Neutral
+392,F,47,Premium Economy,5,3,5,5,4,2,3,55,23,Neutral
+393,F,51,First Class,4,5,5,1,1,4,3,31,113,Satisfied
+394,F,20,Economy,4,5,4,5,3,2,2,6,3,Satisfied
+395,M,44,Economy,4,5,5,1,2,4,3,21,38,Neutral
+396,F,23,First Class,4,4,3,4,5,5,2,24,119,Satisfied
+397,M,79,Premium Economy,5,5,5,4,1,3,2,51,58,Satisfied
+398,F,46,First Class,4,3,1,5,2,3,4,11,30,Unsatisfied
+399,M,35,First Class,4,1,3,2,4,2,5,120,61,Neutral
+400,F,79,Premium Economy,5,4,3,3,2,3,4,95,18,Unsatisfied
+401,M,66,Business,2,5,4,4,3,4,4,37,39,Satisfied
+402,M,26,Business,2,2,3,2,4,4,2,115,51,Unsatisfied
+403,M,31,First Class,4,1,5,4,3,3,2,99,77,Satisfied
+404,F,23,Premium Economy,5,2,3,1,5,2,2,16,108,Neutral
+405,M,28,Economy,5,1,5,5,1,4,1,34,8,Satisfied
+406,M,66,Premium Economy,2,5,3,2,3,4,3,12,69,Unsatisfied
+407,F,44,Business,3,4,3,5,1,4,2,16,108,Satisfied
+408,F,57,Premium Economy,5,5,1,3,5,2,4,33,109,Satisfied
+409,M,43,Business,4,4,2,5,2,2,1,0,114,Unsatisfied
+410,F,44,Economy,4,2,1,5,2,5,1,46,105,Satisfied
+411,M,31,Premium Economy,5,3,5,5,1,2,5,75,50,Unsatisfied
+412,M,51,Business,4,4,1,5,5,4,5,107,117,Satisfied
+413,F,33,Economy,3,3,5,4,3,1,5,46,78,Unsatisfied
+414,F,45,Economy,4,2,3,5,1,1,5,94,20,Neutral
+415,F,56,Premium Economy,3,2,4,4,5,1,3,75,103,Neutral
+416,F,55,Economy,1,4,3,5,1,2,2,53,54,Neutral
+417,F,73,Business,2,5,2,2,1,3,1,30,84,Unsatisfied
+418,F,18,Economy,5,1,1,2,1,5,3,14,97,Satisfied
+419,F,42,Premium Economy,3,4,4,5,4,3,5,73,26,Satisfied
+420,M,49,Business,4,4,1,4,1,5,1,19,36,Satisfied
+421,F,68,First Class,4,2,5,3,3,5,1,17,81,Unsatisfied
+422,F,71,Premium Economy,5,5,3,4,2,2,3,56,4,Neutral
+423,F,68,First Class,2,5,1,4,2,4,4,52,84,Unsatisfied
+424,F,26,First Class,5,1,5,2,2,5,4,25,91,Satisfied
+425,F,58,Business,1,3,2,4,1,2,1,14,48,Neutral
+426,F,52,Business,2,1,1,4,5,4,4,39,27,Neutral
+427,F,78,Premium Economy,4,2,2,4,5,4,5,16,110,Satisfied
+428,F,76,First Class,1,4,5,3,4,4,3,12,12,Satisfied
+429,F,74,Business,3,5,2,3,1,1,5,1,42,Satisfied
+430,F,77,Business,4,3,2,1,1,4,1,47,38,Satisfied
+431,M,70,Economy,2,4,2,4,2,1,4,105,11,Neutral
+432,M,27,First Class,3,2,2,5,4,5,2,52,56,Unsatisfied
+433,F,27,Business,5,1,1,3,3,4,4,22,17,Satisfied
+434,M,28,Premium Economy,4,5,1,2,3,5,3,86,65,Neutral
+435,F,56,Economy,4,2,2,2,3,5,5,119,18,Unsatisfied
+436,M,74,Premium Economy,5,5,3,4,3,1,4,119,104,Neutral
+437,F,75,First Class,4,3,2,3,4,3,3,64,7,Satisfied
+438,M,28,Economy,1,3,2,5,2,5,3,38,84,Satisfied
+439,F,28,Economy,3,1,4,1,4,5,5,84,90,Neutral
+440,F,62,Premium Economy,5,5,3,5,5,1,1,6,69,Satisfied
+441,M,29,Business,3,1,5,2,5,3,4,43,18,Unsatisfied
+442,M,66,First Class,1,1,3,1,5,1,2,82,4,Unsatisfied
+443,M,74,Business,3,1,2,5,2,1,2,80,107,Satisfied
+444,F,70,Business,3,4,3,3,2,1,2,86,21,Neutral
+445,M,64,Business,2,4,3,5,4,5,2,3,75,Unsatisfied
+446,M,32,First Class,2,1,1,2,2,1,3,70,94,Neutral
+447,F,71,Economy,5,3,1,4,1,3,2,80,77,Satisfied
+448,F,22,Economy,2,4,1,1,5,5,4,74,68,Satisfied
+449,M,19,Premium Economy,4,4,3,4,4,2,2,6,25,Unsatisfied
+450,M,43,Business,5,2,1,4,3,1,5,84,79,Neutral
+451,M,56,First Class,2,4,1,2,1,5,4,46,22,Neutral
+452,F,57,Premium Economy,2,2,1,2,3,1,1,69,37,Neutral
+453,M,80,First Class,4,5,3,4,5,1,4,25,56,Satisfied
+454,F,79,Premium Economy,5,5,2,5,1,2,5,54,24,Satisfied
+455,M,31,Premium Economy,1,3,4,2,1,2,3,81,58,Satisfied
+456,F,72,Premium Economy,4,5,3,4,1,5,4,42,32,Unsatisfied
+457,F,45,Premium Economy,5,5,4,1,2,4,1,24,24,Unsatisfied
+458,F,49,Premium Economy,1,1,2,5,3,5,1,23,16,Neutral
+459,M,43,Business,2,2,4,3,2,3,5,64,82,Satisfied
+460,F,20,First Class,3,2,2,4,3,2,5,3,72,Neutral
+461,M,63,Business,3,3,2,4,3,1,4,101,84,Satisfied
+462,F,74,First Class,1,3,4,3,4,3,4,40,60,Satisfied
+463,F,44,Economy,3,2,1,2,2,2,1,31,5,Satisfied
+464,M,53,Premium Economy,2,1,1,5,3,4,3,41,31,Neutral
+465,M,63,Business,3,3,1,1,5,3,5,75,83,Neutral
+466,M,79,Business,4,5,1,4,4,5,1,45,22,Neutral
+467,F,71,Business,3,3,1,3,1,4,4,89,89,Neutral
+468,M,58,Business,5,2,1,2,2,1,5,3,85,Satisfied
+469,M,54,Premium Economy,1,1,2,2,5,3,1,17,39,Unsatisfied
+470,F,50,Business,1,4,2,3,4,3,2,76,41,Satisfied
+471,F,65,First Class,2,2,2,3,3,4,5,82,29,Unsatisfied
+472,F,58,First Class,3,1,3,2,2,5,3,42,111,Satisfied
+473,M,69,Premium Economy,2,5,5,2,1,2,2,38,3,Satisfied
+474,F,48,Premium Economy,4,1,2,5,4,3,5,72,27,Satisfied
+475,M,32,First Class,4,4,2,5,2,5,2,58,65,Neutral
+476,F,26,Premium Economy,3,3,3,4,3,4,5,75,100,Neutral
+477,F,35,Business,5,5,1,1,1,2,1,32,11,Neutral
+478,M,25,First Class,3,2,3,3,4,1,1,38,84,Satisfied
+479,M,43,Business,5,4,2,2,4,5,5,75,99,Satisfied
+480,F,46,Business,2,2,1,3,5,5,5,86,86,Satisfied
+481,M,42,Business,2,4,4,5,5,4,4,102,64,Neutral
+482,F,42,Economy,2,1,3,5,4,5,4,34,37,Unsatisfied
+483,F,79,First Class,5,2,3,4,5,1,1,77,108,Unsatisfied
+484,F,46,Premium Economy,2,2,2,3,4,3,4,8,43,Satisfied
+485,F,27,Business,1,1,1,1,5,2,5,51,106,Neutral
+486,F,44,Economy,3,4,2,1,3,4,3,93,3,Unsatisfied
+487,M,64,First Class,1,1,2,1,2,1,5,25,113,Satisfied
+488,F,71,First Class,1,5,2,1,2,5,2,108,119,Satisfied
+489,M,54,Economy,3,4,2,1,3,4,4,80,20,Unsatisfied
+490,M,63,Business,1,2,1,5,2,5,4,26,90,Satisfied
+491,M,75,Business,3,2,1,2,2,1,2,89,48,Unsatisfied
+492,F,64,First Class,2,4,4,2,3,3,3,2,27,Satisfied
+493,M,28,Business,1,3,1,1,4,5,3,111,20,Satisfied
+494,M,64,Business,5,4,5,3,4,4,3,49,41,Unsatisfied
+495,M,54,Premium Economy,2,5,3,3,4,2,5,65,27,Neutral
+496,F,80,Premium Economy,3,1,2,2,1,2,2,47,71,Unsatisfied
+497,F,60,Economy,2,2,4,1,5,3,5,69,25,Unsatisfied
+498,M,74,Business,4,2,5,5,3,5,1,24,16,Unsatisfied
+499,M,61,Business,1,3,4,5,4,1,5,5,23,Unsatisfied
+500,F,50,Economy,2,2,5,2,2,4,2,71,69,Satisfied
+501,F,52,Premium Economy,3,4,5,2,3,4,2,20,71,Unsatisfied
+502,F,22,First Class,5,2,2,2,1,3,3,42,88,Unsatisfied
+503,F,21,Economy,2,4,4,4,3,2,3,117,20,Neutral
+504,F,71,Business,1,3,1,1,2,5,3,99,118,Satisfied
+505,M,37,Economy,2,4,5,4,4,3,2,99,1,Satisfied
+506,M,22,Premium Economy,5,1,3,4,2,4,2,8,68,Unsatisfied
+507,F,18,Economy,3,5,2,1,3,4,1,38,109,Satisfied
+508,F,53,Economy,2,4,3,3,5,1,2,57,11,Satisfied
+509,F,60,Economy,1,4,2,4,1,3,2,68,23,Satisfied
+510,M,56,Premium Economy,4,2,2,5,3,1,5,0,22,Satisfied
+511,M,63,Premium Economy,5,2,4,4,2,1,4,2,38,Unsatisfied
+512,F,27,Premium Economy,1,2,5,5,2,4,3,55,57,Neutral
+513,M,67,Premium Economy,2,2,1,1,5,3,1,70,65,Satisfied
+514,F,22,Premium Economy,4,1,2,1,2,3,2,65,40,Satisfied
+515,M,45,Economy,4,1,4,3,1,3,1,91,48,Satisfied
+516,F,59,Premium Economy,4,3,1,3,3,5,5,64,77,Neutral
+517,F,20,Business,5,1,4,1,2,3,4,88,52,Unsatisfied
+518,M,71,Premium Economy,5,1,2,4,1,5,3,103,23,Neutral
+519,F,70,Economy,4,1,3,4,4,2,4,7,18,Satisfied
+520,F,34,Economy,4,2,1,1,5,5,1,70,88,Unsatisfied
+521,M,40,Premium Economy,2,5,4,2,3,5,4,109,86,Unsatisfied
+522,F,63,Premium Economy,3,1,4,4,3,5,1,88,102,Unsatisfied
+523,M,80,Business,4,3,1,4,1,5,4,98,60,Unsatisfied
+524,F,23,Premium Economy,3,1,2,1,2,2,3,49,29,Neutral
+525,F,36,Premium Economy,5,4,3,1,4,4,5,41,97,Satisfied
+526,F,37,Economy,5,1,3,3,2,4,1,89,9,Neutral
+527,F,30,Economy,4,3,5,3,5,5,1,118,45,Satisfied
+528,M,49,Economy,2,1,3,3,3,1,2,91,49,Unsatisfied
+529,M,27,First Class,3,1,4,2,5,3,1,14,109,Unsatisfied
+530,M,67,Economy,5,5,4,3,1,5,3,50,101,Neutral
+531,M,55,Premium Economy,2,2,3,2,2,4,3,16,107,Unsatisfied
+532,M,57,Business,1,3,5,2,5,2,3,106,47,Unsatisfied
+533,M,61,Economy,5,2,5,1,4,2,2,96,86,Satisfied
+534,F,40,Business,1,4,2,1,5,4,2,39,75,Unsatisfied
+535,M,66,First Class,3,2,5,1,4,1,2,1,23,Satisfied
+536,F,73,Premium Economy,4,1,1,1,4,1,1,59,74,Satisfied
+537,M,24,Premium Economy,3,3,4,4,4,3,5,25,53,Satisfied
+538,F,33,Business,4,1,4,1,2,1,3,119,116,Neutral
+539,M,52,Economy,1,1,2,3,2,4,1,26,112,Satisfied
+540,F,21,First Class,3,1,1,1,3,3,5,11,55,Satisfied
+541,F,31,Premium Economy,4,1,5,2,4,3,2,46,61,Unsatisfied
+542,M,45,Premium Economy,2,3,4,5,5,5,1,28,111,Satisfied
+543,F,21,Economy,1,1,4,3,2,3,5,60,10,Neutral
+544,F,62,Business,2,1,3,5,2,3,3,65,66,Unsatisfied
+545,M,44,First Class,1,5,1,4,5,4,3,62,57,Satisfied
+546,M,27,Economy,5,1,5,2,2,1,2,32,12,Unsatisfied
+547,F,33,Business,5,4,2,3,4,4,3,63,111,Satisfied
+548,F,23,Economy,3,3,5,3,4,5,3,60,96,Neutral
+549,M,79,Business,2,1,3,2,1,5,4,47,119,Unsatisfied
+550,M,37,First Class,5,4,5,4,3,2,2,86,88,Satisfied
+551,F,19,First Class,3,2,2,4,1,1,2,81,109,Unsatisfied
+552,M,64,First Class,1,5,2,2,5,4,3,45,94,Satisfied
+553,M,76,First Class,5,5,2,5,4,5,5,67,14,Satisfied
+554,F,69,Business,2,5,5,1,4,1,4,59,113,Neutral
+555,F,43,Business,5,3,3,4,1,1,2,101,36,Unsatisfied
+556,M,32,Premium Economy,1,5,4,5,4,2,2,100,15,Neutral
+557,M,74,Economy,5,2,4,1,5,4,2,6,84,Satisfied
+558,M,20,Business,3,2,3,2,2,4,3,96,49,Neutral
+559,F,80,Economy,5,5,1,2,2,4,4,14,15,Neutral
+560,F,21,Business,1,2,4,1,5,4,1,36,42,Unsatisfied
+561,F,22,First Class,2,3,1,2,5,5,5,96,111,Satisfied
+562,M,19,Premium Economy,2,4,2,4,3,2,2,70,89,Satisfied
+563,F,30,Business,5,4,3,5,3,5,2,91,15,Satisfied
+564,M,22,Economy,4,4,3,3,3,4,3,6,105,Satisfied
+565,F,60,Economy,1,4,4,5,3,4,4,96,70,Satisfied
+566,F,29,Economy,3,1,5,5,5,3,1,87,46,Unsatisfied
+567,F,69,Economy,5,4,3,1,3,3,1,57,91,Neutral
+568,M,38,Premium Economy,3,4,3,4,2,5,5,26,89,Unsatisfied
+569,F,37,Economy,3,5,4,5,3,2,2,107,95,Satisfied
+570,F,57,Premium Economy,4,1,1,4,3,4,4,54,39,Unsatisfied
+571,M,63,First Class,1,2,1,4,2,1,2,77,53,Satisfied
+572,M,25,Premium Economy,4,3,1,2,3,5,3,78,60,Neutral
+573,F,76,Premium Economy,2,3,4,1,3,2,5,79,114,Satisfied
+574,F,25,First Class,5,3,2,3,5,3,1,37,100,Unsatisfied
+575,F,45,Business,3,4,1,2,5,4,1,113,7,Satisfied
+576,F,66,Premium Economy,2,5,3,4,1,5,3,88,45,Satisfied
+577,M,39,First Class,2,3,2,4,2,2,4,87,100,Neutral
+578,M,43,Premium Economy,2,3,2,4,1,2,5,16,64,Satisfied
+579,M,49,Economy,3,1,4,5,2,1,5,8,15,Satisfied
+580,F,79,Business,3,2,3,3,2,1,4,45,77,Unsatisfied
+581,M,18,Economy,2,3,1,4,5,2,3,84,112,Satisfied
+582,F,77,First Class,3,4,4,1,5,1,3,1,85,Neutral
+583,M,78,Economy,3,5,2,5,2,3,4,21,110,Satisfied
+584,F,59,First Class,1,2,2,2,5,3,5,17,23,Unsatisfied
+585,F,19,First Class,4,4,4,5,4,2,2,18,47,Unsatisfied
+586,F,47,Premium Economy,4,2,1,2,5,1,1,64,74,Satisfied
+587,F,65,Business,3,2,3,5,5,1,2,8,67,Unsatisfied
+588,M,50,Business,1,3,2,3,1,5,4,86,111,Unsatisfied
+589,F,26,Business,5,1,5,5,5,1,2,60,87,Unsatisfied
+590,F,22,Economy,4,2,2,3,4,1,1,5,32,Satisfied
+591,M,70,Economy,4,3,3,4,4,1,3,30,28,Satisfied
+592,F,68,Business,5,3,5,2,2,3,5,55,89,Neutral
+593,M,46,Premium Economy,1,1,3,4,1,5,4,50,46,Satisfied
+594,M,56,Premium Economy,3,5,5,4,4,3,4,79,83,Satisfied
+595,F,68,Economy,3,1,2,5,1,1,4,7,54,Unsatisfied
+596,M,18,First Class,3,5,2,3,2,2,1,62,0,Neutral
+597,F,79,Business,5,4,1,2,2,2,2,114,105,Satisfied
+598,F,68,Business,4,5,4,1,2,3,1,79,37,Unsatisfied
+599,M,73,Business,3,4,1,3,3,5,5,40,24,Satisfied
+600,F,74,Business,5,1,4,3,5,2,5,91,80,Satisfied
+601,M,62,Economy,5,2,4,2,1,5,4,61,96,Satisfied
+602,F,46,Economy,5,2,1,5,3,5,2,108,21,Neutral
+603,M,80,First Class,5,1,3,2,1,2,2,50,82,Satisfied
+604,M,25,Premium Economy,5,3,5,2,5,2,5,94,91,Neutral
+605,M,28,Business,3,5,1,4,2,4,1,59,92,Satisfied
+606,M,27,Economy,3,5,1,1,1,5,3,76,10,Satisfied
+607,M,67,Premium Economy,4,3,5,2,2,5,4,72,93,Satisfied
+608,M,58,Business,3,5,2,5,5,3,4,96,29,Unsatisfied
+609,M,44,Premium Economy,1,5,1,5,5,3,3,97,85,Neutral
+610,M,49,Economy,1,1,3,1,4,1,5,50,63,Unsatisfied
+611,M,41,First Class,2,1,2,5,3,4,1,65,27,Satisfied
+612,F,65,First Class,2,5,5,2,3,3,5,31,31,Unsatisfied
+613,F,61,Economy,3,2,5,1,3,3,2,49,120,Unsatisfied
+614,F,75,Premium Economy,5,1,3,5,5,1,5,43,56,Unsatisfied
+615,F,58,Premium Economy,1,4,5,4,3,2,1,98,40,Unsatisfied
+616,F,62,Business,4,5,3,3,4,2,5,100,65,Satisfied
+617,M,24,Economy,1,1,5,5,5,5,4,64,66,Satisfied
+618,F,25,Business,4,4,4,4,5,1,1,49,38,Satisfied
+619,M,53,Premium Economy,4,3,3,1,2,1,4,52,42,Neutral
+620,F,42,Economy,2,2,5,2,2,2,5,107,54,Neutral
+621,M,55,Business,1,5,2,1,1,4,3,10,82,Satisfied
+622,F,26,Economy,3,4,1,1,1,1,4,56,29,Neutral
+623,F,49,Business,4,5,1,1,5,2,2,41,24,Neutral
+624,F,19,Business,2,5,5,4,5,4,5,87,9,Unsatisfied
+625,M,65,Economy,2,4,3,2,1,3,5,4,69,Neutral
+626,F,68,Business,5,5,3,5,1,3,4,37,49,Unsatisfied
+627,M,64,First Class,4,5,1,2,4,4,2,13,9,Unsatisfied
+628,M,55,Business,5,2,2,5,3,1,1,116,46,Neutral
+629,M,48,First Class,3,1,1,4,3,5,5,78,87,Satisfied
+630,F,67,Economy,5,1,3,2,1,4,1,67,2,Satisfied
+631,M,31,Economy,3,5,3,4,5,2,4,80,107,Unsatisfied
+632,F,67,First Class,5,3,5,2,2,2,1,107,69,Satisfied
+633,F,30,Economy,3,4,5,5,1,5,4,25,74,Satisfied
+634,M,38,Business,5,3,5,2,4,4,5,89,5,Satisfied
+635,F,76,First Class,3,3,3,1,3,2,1,59,46,Satisfied
+636,F,60,Economy,5,2,2,2,1,3,3,120,85,Satisfied
+637,F,31,Premium Economy,1,2,2,2,2,4,5,13,57,Unsatisfied
+638,F,69,Business,4,2,5,3,3,1,1,19,55,Satisfied
+639,M,61,Premium Economy,1,2,5,1,4,2,3,83,15,Unsatisfied
+640,M,55,Economy,3,4,1,3,5,5,4,102,52,Unsatisfied
+641,F,46,Economy,3,4,2,3,3,1,5,104,33,Neutral
+642,F,48,First Class,1,4,5,3,4,5,3,106,114,Unsatisfied
+643,M,37,Economy,4,5,1,3,3,4,2,49,39,Unsatisfied
+644,M,51,Economy,5,2,5,3,4,4,2,82,36,Unsatisfied
+645,F,62,Business,3,2,3,2,2,2,1,100,86,Unsatisfied
+646,F,52,Business,3,5,1,3,3,3,3,99,102,Unsatisfied
+647,M,70,Business,1,3,2,1,2,5,2,101,4,Neutral
+648,F,79,First Class,1,3,5,5,3,3,5,70,66,Unsatisfied
+649,F,59,Economy,3,5,4,1,5,1,4,84,38,Satisfied
+650,M,52,Premium Economy,5,2,5,3,3,4,4,112,63,Unsatisfied
+651,F,68,Premium Economy,1,1,2,5,2,1,4,36,53,Satisfied
+652,F,24,Business,2,4,5,5,3,3,3,81,53,Unsatisfied
+653,F,41,First Class,1,4,3,3,5,1,1,61,67,Neutral
+654,M,58,First Class,3,3,2,3,5,2,2,62,80,Satisfied
+655,F,79,Economy,4,4,3,1,3,4,5,73,18,Unsatisfied
+656,F,73,First Class,4,3,1,3,5,1,2,26,22,Neutral
+657,M,20,Business,1,5,5,1,5,5,4,18,67,Neutral
+658,F,30,First Class,5,5,2,5,2,4,3,41,29,Neutral
+659,F,28,Business,5,4,4,3,4,2,3,62,18,Neutral
+660,M,38,Premium Economy,2,3,4,3,1,5,4,86,5,Neutral
+661,F,76,Economy,4,4,1,4,1,5,1,39,13,Neutral
+662,F,71,Business,5,4,1,3,5,3,2,58,53,Satisfied
+663,F,38,First Class,4,4,1,1,1,4,4,19,46,Neutral
+664,F,66,First Class,5,1,2,5,2,3,1,114,50,Unsatisfied
+665,F,20,Premium Economy,2,3,2,2,2,4,5,54,65,Neutral
+666,M,70,Economy,3,5,5,5,2,1,2,78,27,Unsatisfied
+667,F,23,First Class,3,3,2,4,1,1,3,81,109,Neutral
+668,M,30,Business,2,3,4,3,1,2,2,89,6,Satisfied
+669,M,52,First Class,3,4,5,4,1,5,5,10,49,Unsatisfied
+670,M,21,Business,3,5,3,5,3,4,1,77,88,Neutral
+671,M,57,Premium Economy,3,2,3,3,1,3,4,40,85,Satisfied
+672,M,75,First Class,5,3,1,1,4,2,1,54,85,Unsatisfied
+673,M,32,Premium Economy,5,4,3,1,5,2,2,27,68,Satisfied
+674,F,59,Business,3,1,2,1,1,3,4,52,113,Unsatisfied
+675,M,48,First Class,1,2,1,4,2,2,2,86,106,Satisfied
+676,F,68,Business,5,3,5,3,4,2,5,13,67,Unsatisfied
+677,M,46,Business,1,3,4,5,5,2,1,60,48,Unsatisfied
+678,F,33,First Class,4,5,3,5,5,1,5,73,66,Satisfied
+679,M,54,Premium Economy,4,1,4,2,2,5,1,97,12,Neutral
+680,F,55,Premium Economy,4,4,5,1,5,5,5,76,103,Unsatisfied
+681,M,42,Economy,5,3,1,5,3,3,5,0,38,Unsatisfied
+682,M,77,Economy,5,5,5,3,2,1,3,54,81,Unsatisfied
+683,F,39,Premium Economy,4,3,2,2,1,3,1,77,48,Unsatisfied
+684,F,47,Economy,5,4,2,4,1,4,3,119,92,Satisfied
+685,F,65,Premium Economy,2,3,3,3,4,5,2,55,96,Satisfied
+686,F,71,Premium Economy,1,4,2,1,5,1,5,71,62,Unsatisfied
+687,F,76,Economy,1,5,1,5,1,1,2,109,111,Unsatisfied
+688,F,53,Business,5,3,4,4,4,2,5,70,22,Satisfied
+689,M,25,Premium Economy,2,3,4,3,2,1,5,50,116,Satisfied
+690,F,57,Premium Economy,1,2,3,3,2,1,5,45,30,Satisfied
+691,F,48,Premium Economy,1,1,2,5,3,3,1,63,0,Neutral
+692,F,38,Business,1,4,4,1,1,1,2,81,0,Satisfied
+693,F,37,Premium Economy,2,3,1,1,4,3,3,95,11,Unsatisfied
+694,M,28,Business,4,1,4,5,3,2,4,82,76,Unsatisfied
+695,M,73,Premium Economy,5,1,1,2,4,3,5,51,104,Neutral
+696,F,27,Business,4,4,2,4,5,1,4,9,19,Satisfied
+697,F,64,First Class,1,2,4,3,2,3,1,29,16,Satisfied
+698,M,59,Business,4,1,2,4,4,2,5,36,11,Neutral
+699,M,39,Premium Economy,4,5,5,2,4,4,3,87,119,Unsatisfied
+700,M,18,First Class,4,4,2,5,3,5,3,94,4,Unsatisfied
+701,M,74,Economy,1,3,2,4,1,2,5,65,115,Satisfied
+702,M,45,Premium Economy,3,4,3,5,1,2,2,22,14,Neutral
+703,F,19,Premium Economy,2,5,2,2,1,4,2,72,43,Neutral
+704,F,65,Business,1,3,5,5,4,4,2,5,5,Neutral
+705,F,23,Economy,4,5,5,2,2,1,4,17,57,Satisfied
+706,M,21,Premium Economy,1,2,2,4,1,1,3,83,53,Neutral
+707,M,68,Business,3,5,2,1,3,5,1,117,48,Unsatisfied
+708,F,73,Economy,5,2,2,1,4,1,5,52,24,Neutral
+709,M,63,Economy,4,5,2,1,3,1,4,46,11,Satisfied
+710,F,55,Economy,2,4,4,5,4,2,3,54,101,Satisfied
+711,M,45,Economy,5,3,1,1,1,1,2,99,48,Unsatisfied
+712,F,52,First Class,1,5,1,3,1,2,5,109,69,Neutral
+713,M,48,Economy,2,3,2,2,3,4,3,32,6,Neutral
+714,F,55,Economy,2,3,4,3,1,3,2,31,89,Unsatisfied
+715,M,63,Premium Economy,4,5,3,2,3,1,5,71,76,Neutral
+716,M,57,Business,1,1,3,5,1,4,2,89,120,Satisfied
+717,F,78,Economy,2,3,1,1,5,3,5,71,30,Satisfied
+718,M,57,First Class,5,4,1,2,4,1,1,72,27,Satisfied
+719,F,23,Premium Economy,2,4,1,2,5,3,4,30,90,Neutral
+720,F,55,Premium Economy,4,1,4,3,1,2,5,70,107,Neutral
+721,M,65,Economy,5,3,1,5,4,4,4,67,100,Neutral
+722,F,28,First Class,1,5,4,1,2,3,3,15,111,Satisfied
+723,F,25,Economy,4,3,4,2,4,5,1,107,116,Satisfied
+724,M,78,Economy,4,2,3,4,1,2,4,40,44,Neutral
+725,F,25,Business,4,4,5,5,2,2,1,17,41,Unsatisfied
+726,M,30,Business,4,1,1,5,5,3,5,45,118,Unsatisfied
+727,M,55,Business,3,2,4,5,1,4,5,87,110,Unsatisfied
+728,F,71,First Class,5,4,2,2,3,1,1,96,55,Unsatisfied
+729,F,77,Premium Economy,4,3,5,1,4,4,2,112,86,Satisfied
+730,F,39,Economy,1,2,2,5,5,3,5,12,83,Satisfied
+731,F,73,First Class,4,3,5,3,3,5,4,97,10,Neutral
+732,M,18,Economy,5,2,1,4,4,1,2,88,113,Satisfied
+733,M,40,Premium Economy,4,2,5,4,5,2,3,90,1,Unsatisfied
+734,M,27,Business,2,4,4,4,3,3,2,22,14,Neutral
+735,M,26,First Class,2,4,4,2,5,1,1,30,82,Neutral
+736,M,78,Premium Economy,2,2,4,4,2,1,1,102,59,Neutral
+737,M,49,Economy,1,5,5,2,1,1,3,65,62,Satisfied
+738,M,50,Premium Economy,3,2,5,1,2,1,1,36,55,Unsatisfied
+739,F,58,Economy,4,1,1,5,1,2,5,18,82,Satisfied
+740,F,57,First Class,5,3,3,4,3,1,5,62,14,Unsatisfied
+741,F,26,Business,4,5,2,1,3,1,4,10,31,Neutral
+742,F,68,Economy,4,2,1,3,1,3,2,15,80,Neutral
+743,F,31,Business,4,4,5,2,2,4,3,21,11,Satisfied
+744,M,80,First Class,5,1,4,5,5,5,3,104,65,Satisfied
+745,F,40,Business,2,4,3,4,3,1,5,106,44,Satisfied
+746,F,70,First Class,5,4,4,3,2,4,1,17,100,Neutral
+747,F,42,Economy,2,2,1,1,2,2,3,33,119,Satisfied
+748,M,46,Premium Economy,3,2,2,4,1,5,3,31,37,Neutral
+749,F,21,First Class,1,3,2,2,3,1,4,87,19,Satisfied
+750,F,23,Economy,2,2,4,4,3,4,1,32,86,Neutral
+751,M,74,Premium Economy,4,5,4,2,1,3,1,106,67,Satisfied
+752,F,40,First Class,1,2,1,3,5,5,4,52,9,Satisfied
+753,M,55,Premium Economy,4,4,2,4,4,2,5,27,19,Unsatisfied
+754,F,26,Economy,1,4,3,2,5,5,1,46,64,Satisfied
+755,F,56,Economy,4,2,2,4,4,2,1,93,7,Unsatisfied
+756,F,28,First Class,1,3,3,3,3,1,4,20,53,Unsatisfied
+757,F,60,Economy,1,1,5,2,1,2,1,110,84,Neutral
+758,F,51,First Class,2,4,4,4,3,2,5,101,22,Satisfied
+759,F,73,Business,1,1,3,4,1,4,5,90,89,Satisfied
+760,F,40,Premium Economy,3,2,5,2,5,4,4,50,96,Neutral
+761,M,31,First Class,5,4,3,5,4,2,4,91,78,Unsatisfied
+762,F,52,First Class,2,3,5,3,2,3,5,33,46,Neutral
+763,F,38,Premium Economy,5,5,2,4,2,5,2,69,101,Satisfied
+764,F,53,First Class,5,5,2,4,4,1,4,78,23,Satisfied
+765,M,47,Business,3,5,1,2,2,5,4,27,19,Neutral
+766,M,30,First Class,2,5,3,2,5,3,2,1,12,Satisfied
+767,M,49,Premium Economy,4,1,1,1,2,3,2,89,65,Unsatisfied
+768,M,33,First Class,3,5,4,5,1,3,1,62,62,Unsatisfied
+769,M,27,Premium Economy,5,5,5,5,5,3,3,74,29,Unsatisfied
+770,F,80,Premium Economy,3,4,3,4,1,4,5,20,68,Neutral
+771,M,46,Economy,2,5,4,1,1,1,3,99,45,Unsatisfied
+772,F,48,Premium Economy,4,4,4,2,2,5,2,79,57,Satisfied
+773,F,47,Economy,5,5,2,1,5,3,3,44,56,Satisfied
+774,M,43,Economy,1,4,3,4,5,2,4,29,5,Satisfied
+775,F,39,Economy,2,4,2,5,3,4,4,24,39,Neutral
+776,M,33,Premium Economy,1,2,5,3,2,2,3,35,86,Unsatisfied
+777,M,45,Premium Economy,1,3,3,5,3,4,4,11,21,Unsatisfied
+778,F,30,Business,4,2,4,4,3,5,3,69,111,Satisfied
+779,M,36,Business,1,2,1,4,2,3,5,40,5,Unsatisfied
+780,F,29,First Class,3,4,2,4,2,3,4,75,119,Satisfied
+781,F,61,First Class,4,4,3,4,2,4,2,106,18,Satisfied
+782,F,74,First Class,4,5,2,4,1,4,2,111,76,Neutral
+783,F,52,Premium Economy,2,5,2,1,3,2,2,26,66,Neutral
+784,M,60,First Class,4,5,4,5,5,2,1,38,112,Satisfied
+785,F,30,Business,3,4,4,4,4,2,5,43,79,Satisfied
+786,M,61,Economy,4,3,5,1,2,1,4,109,117,Unsatisfied
+787,F,35,Economy,4,3,3,5,4,4,4,6,61,Neutral
+788,F,78,Premium Economy,4,5,1,2,3,2,4,15,60,Unsatisfied
+789,M,50,Premium Economy,5,1,1,1,4,5,1,106,68,Unsatisfied
+790,F,47,Business,4,4,1,2,3,1,1,91,62,Neutral
+791,M,65,Economy,3,2,5,4,4,3,5,70,81,Satisfied
+792,M,44,Premium Economy,4,3,2,4,2,5,3,75,114,Neutral
+793,M,58,Business,1,1,4,5,3,3,2,65,67,Unsatisfied
+794,M,72,Premium Economy,4,3,3,1,3,3,4,30,82,Satisfied
+795,F,52,Economy,5,4,3,5,2,3,1,118,11,Satisfied
+796,F,57,Business,4,3,4,1,1,3,1,106,96,Satisfied
+797,F,18,Premium Economy,5,3,1,2,2,4,2,49,11,Satisfied
+798,F,18,First Class,4,4,5,1,1,4,2,115,104,Unsatisfied
+799,F,79,Premium Economy,5,3,1,1,4,3,5,70,86,Satisfied
+800,M,47,Economy,1,1,1,4,5,4,3,89,119,Neutral
+801,M,63,Business,3,4,2,5,3,4,3,4,87,Satisfied
+802,F,47,First Class,5,2,2,5,2,5,2,73,36,Unsatisfied
+803,F,62,Economy,4,1,2,5,1,5,5,73,118,Satisfied
+804,M,56,Premium Economy,4,1,1,5,1,5,1,73,95,Unsatisfied
+805,F,46,Economy,5,5,4,4,1,1,5,120,58,Unsatisfied
+806,F,77,Economy,4,2,2,2,3,2,4,47,79,Satisfied
+807,M,26,First Class,3,1,4,5,2,4,3,8,81,Unsatisfied
+808,M,62,Premium Economy,3,5,1,4,2,1,3,25,87,Neutral
+809,M,26,First Class,5,3,3,3,1,5,3,61,49,Unsatisfied
+810,M,38,First Class,2,3,3,4,5,5,1,40,27,Neutral
+811,M,21,First Class,3,2,3,5,5,4,2,59,81,Neutral
+812,F,48,Premium Economy,5,2,3,1,5,5,5,84,31,Unsatisfied
+813,M,20,Premium Economy,1,3,2,3,5,4,3,96,67,Satisfied
+814,M,18,Premium Economy,4,1,4,5,3,5,2,103,105,Unsatisfied
+815,M,44,Premium Economy,1,4,3,5,4,5,4,94,93,Satisfied
+816,M,27,Business,1,1,1,2,1,4,4,18,15,Unsatisfied
+817,M,45,Economy,4,4,5,4,2,5,3,24,73,Satisfied
+818,M,41,Premium Economy,5,1,3,5,4,4,2,49,107,Neutral
+819,M,50,Economy,4,5,4,1,5,4,1,97,111,Unsatisfied
+820,M,20,Premium Economy,4,4,2,1,4,5,2,49,71,Satisfied
+821,F,25,Economy,4,3,1,5,5,3,2,25,59,Unsatisfied
+822,M,28,First Class,5,3,1,4,5,2,4,56,87,Unsatisfied
+823,M,49,First Class,4,2,4,5,4,3,2,17,43,Unsatisfied
+824,M,57,First Class,4,5,2,4,5,2,5,55,111,Satisfied
+825,F,49,Business,1,2,4,5,1,5,2,57,89,Satisfied
+826,F,80,First Class,3,1,4,4,4,1,5,87,48,Neutral
+827,M,57,First Class,2,2,5,4,3,4,1,87,72,Satisfied
+828,F,32,Business,2,5,4,3,2,2,5,36,24,Unsatisfied
+829,F,36,Economy,1,5,2,2,3,3,2,26,16,Neutral
+830,M,45,Premium Economy,2,3,1,5,2,5,1,77,114,Neutral
+831,F,27,Economy,1,4,2,2,3,4,3,76,103,Satisfied
+832,F,33,Premium Economy,4,5,2,3,3,1,3,88,9,Satisfied
+833,M,77,Business,2,5,2,4,3,4,5,84,98,Neutral
+834,F,34,First Class,1,2,3,4,2,3,3,48,112,Neutral
+835,M,39,Premium Economy,5,3,4,2,2,1,5,29,80,Neutral
+836,M,30,First Class,2,1,5,2,5,3,5,3,35,Unsatisfied
+837,F,76,First Class,3,3,1,5,2,3,2,109,64,Satisfied
+838,F,78,Premium Economy,2,2,3,3,2,5,1,19,73,Unsatisfied
+839,M,26,First Class,4,5,4,2,1,1,5,69,80,Neutral
+840,F,72,Business,4,4,5,5,4,4,5,71,70,Unsatisfied
+841,F,41,First Class,5,4,1,1,2,3,4,2,82,Neutral
+842,F,22,First Class,5,3,1,2,5,1,4,14,32,Satisfied
+843,M,75,First Class,5,5,2,4,1,5,2,26,106,Unsatisfied
+844,M,69,First Class,3,4,5,4,3,2,5,111,6,Unsatisfied
+845,M,78,Premium Economy,2,4,1,1,5,5,2,15,4,Satisfied
+846,F,77,First Class,2,1,5,5,2,1,2,43,60,Unsatisfied
+847,M,28,Economy,5,5,1,1,2,2,4,27,82,Satisfied
+848,F,41,Premium Economy,4,4,4,2,2,5,3,62,30,Satisfied
+849,F,30,Economy,1,2,1,4,1,3,2,1,113,Neutral
+850,F,73,Economy,1,4,5,5,5,2,2,29,37,Satisfied
+851,M,52,First Class,2,1,3,4,2,3,2,67,88,Satisfied
+852,F,25,Economy,5,5,1,1,2,1,3,72,61,Satisfied
+853,M,37,First Class,5,3,4,4,1,2,2,78,110,Neutral
+854,M,31,Business,4,1,2,5,1,3,5,37,45,Neutral
+855,M,76,Economy,5,4,3,5,4,5,5,12,38,Neutral
+856,F,51,First Class,4,4,5,4,3,5,5,1,66,Neutral
+857,M,23,First Class,4,3,5,1,2,5,5,30,67,Satisfied
+858,F,70,Economy,2,5,1,2,1,2,1,41,120,Neutral
+859,M,46,Business,5,3,4,5,4,5,2,87,117,Unsatisfied
+860,F,74,Business,2,3,2,4,1,2,2,102,116,Neutral
+861,M,26,First Class,3,2,2,1,3,5,2,103,16,Satisfied
+862,M,78,Economy,2,3,2,5,1,4,3,52,12,Neutral
+863,F,50,Business,3,1,2,5,1,5,4,55,112,Neutral
+864,M,39,Economy,4,5,4,4,2,3,2,77,56,Neutral
+865,M,38,Business,1,4,1,3,1,3,4,57,95,Unsatisfied
+866,F,61,Business,2,3,5,2,3,4,1,87,25,Satisfied
+867,F,37,Business,3,5,1,3,3,3,3,13,91,Unsatisfied
+868,F,60,Economy,4,5,2,4,2,2,2,47,117,Satisfied
+869,M,37,First Class,4,2,4,3,2,1,4,28,34,Unsatisfied
+870,M,41,Economy,4,5,3,3,2,5,5,79,78,Satisfied
+871,F,74,Economy,2,5,4,4,3,5,3,101,34,Neutral
+872,F,39,Business,5,2,5,5,1,1,4,12,29,Neutral
+873,M,28,Business,1,5,4,3,4,5,5,46,79,Neutral
+874,F,36,Premium Economy,3,3,1,5,3,5,5,116,85,Unsatisfied
+875,M,37,Economy,1,1,1,1,3,3,2,20,103,Unsatisfied
+876,F,38,Economy,5,3,5,2,4,2,2,16,5,Unsatisfied
+877,F,26,First Class,1,1,4,4,5,3,1,27,43,Satisfied
+878,F,71,Economy,1,5,1,2,5,2,4,69,57,Unsatisfied
+879,M,58,First Class,3,3,2,3,2,3,5,51,44,Neutral
+880,F,78,First Class,4,4,5,1,4,2,5,17,3,Neutral
+881,M,58,First Class,3,4,1,5,2,5,4,117,118,Unsatisfied
+882,F,29,Business,4,5,4,2,2,4,3,120,55,Neutral
+883,M,24,Premium Economy,2,2,1,2,3,2,5,54,76,Neutral
+884,M,34,Business,3,3,2,4,2,3,3,112,24,Unsatisfied
+885,F,53,Economy,4,4,4,5,1,1,3,44,68,Unsatisfied
+886,F,74,Premium Economy,2,1,5,2,5,3,3,117,60,Satisfied
+887,F,77,Business,1,1,5,5,3,1,2,46,28,Satisfied
+888,M,36,Business,2,5,4,2,1,5,4,102,54,Unsatisfied
+889,F,48,Business,1,3,5,4,4,1,2,105,73,Satisfied
+890,M,69,Economy,2,5,2,2,3,3,4,17,6,Neutral
+891,F,32,Business,1,5,2,5,3,1,4,34,82,Satisfied
+892,M,47,Business,1,5,1,5,2,5,1,119,81,Neutral
+893,M,79,Business,1,3,3,1,3,2,5,57,98,Satisfied
+894,M,69,Business,5,3,4,4,4,3,3,6,67,Unsatisfied
+895,M,70,Premium Economy,1,1,1,2,2,2,2,81,25,Satisfied
+896,F,52,Premium Economy,2,2,5,4,3,2,1,38,109,Unsatisfied
+897,M,45,Economy,3,2,2,3,3,4,2,1,65,Unsatisfied
+898,M,49,Economy,5,3,1,2,1,1,4,19,22,Unsatisfied
+899,M,29,Economy,3,1,4,5,4,3,2,111,46,Satisfied
+900,F,73,First Class,5,2,5,1,2,5,3,54,6,Satisfied
+901,F,73,Business,4,5,5,2,3,3,1,23,114,Satisfied
+902,F,38,Economy,4,5,5,2,1,5,2,92,81,Satisfied
+903,F,36,Business,2,3,5,2,4,1,4,50,1,Unsatisfied
+904,M,42,Economy,5,5,3,5,4,3,2,101,64,Satisfied
+905,F,79,Premium Economy,5,5,5,3,4,1,5,54,11,Unsatisfied
+906,M,61,Business,2,4,3,5,4,2,1,6,53,Neutral
+907,M,71,Economy,4,1,4,5,2,2,3,45,3,Neutral
+908,M,55,First Class,1,2,2,4,3,4,5,50,115,Satisfied
+909,F,61,Economy,3,1,1,2,3,1,2,76,38,Satisfied
+910,M,19,Economy,3,3,3,1,1,1,5,7,79,Neutral
+911,F,31,Business,1,5,5,4,1,1,3,4,60,Satisfied
+912,F,21,Premium Economy,1,5,5,4,4,2,4,46,22,Neutral
+913,F,76,Premium Economy,5,2,2,2,5,3,5,75,86,Satisfied
+914,F,75,Economy,2,5,2,5,3,2,5,84,78,Unsatisfied
+915,M,38,Business,3,4,5,5,4,3,5,10,54,Neutral
+916,M,53,Premium Economy,2,2,5,1,1,1,5,106,108,Satisfied
+917,F,28,Premium Economy,1,2,3,3,5,3,1,96,15,Unsatisfied
+918,M,65,Business,3,5,3,1,4,4,3,23,15,Satisfied
+919,F,62,First Class,3,4,4,2,1,2,3,47,34,Unsatisfied
+920,M,50,Premium Economy,5,2,5,5,3,1,3,56,33,Unsatisfied
+921,M,30,First Class,4,2,2,1,2,2,5,2,98,Unsatisfied
+922,M,18,Economy,4,2,2,1,5,3,4,99,68,Satisfied
+923,F,59,Economy,3,4,3,2,3,3,1,98,26,Unsatisfied
+924,F,72,Economy,4,2,1,2,1,4,3,22,30,Satisfied
+925,M,80,Economy,4,4,4,5,1,3,3,26,92,Unsatisfied
+926,M,23,Economy,1,1,4,4,4,5,5,117,93,Satisfied
+927,M,37,Economy,4,3,4,5,2,4,1,21,22,Satisfied
+928,M,40,Premium Economy,1,3,3,5,2,2,3,12,52,Unsatisfied
+929,M,59,Premium Economy,4,3,5,4,1,2,2,65,84,Neutral
+930,M,75,Premium Economy,1,5,1,3,1,3,4,39,49,Unsatisfied
+931,M,47,Economy,5,5,3,4,2,5,3,27,118,Neutral
+932,M,47,Economy,5,1,3,4,4,1,3,103,12,Satisfied
+933,F,18,Economy,3,1,2,5,4,1,4,84,72,Satisfied
+934,M,35,Business,5,4,1,4,5,4,1,30,83,Unsatisfied
+935,M,69,Premium Economy,5,3,5,5,2,2,5,109,3,Neutral
+936,M,68,Business,5,4,4,4,5,3,4,15,40,Unsatisfied
+937,M,28,Economy,3,2,2,4,3,2,1,120,18,Unsatisfied
+938,F,48,Economy,3,5,2,5,1,2,3,64,89,Neutral
+939,M,71,Economy,2,4,1,1,1,5,2,24,82,Satisfied
+940,F,78,Premium Economy,2,2,5,2,1,2,2,97,110,Unsatisfied
+941,M,51,Premium Economy,2,5,5,4,5,3,3,43,44,Neutral
+942,M,26,Premium Economy,2,1,1,5,2,5,1,116,107,Neutral
+943,M,18,First Class,1,4,5,4,2,3,2,49,83,Unsatisfied
+944,F,64,Premium Economy,2,1,2,1,2,5,1,73,112,Satisfied
+945,M,63,Economy,4,2,4,5,3,1,5,109,72,Neutral
+946,F,74,Business,1,4,4,5,1,3,4,37,42,Unsatisfied
+947,M,26,First Class,5,3,3,2,2,1,1,4,59,Satisfied
+948,M,31,Premium Economy,5,5,4,4,3,3,1,75,13,Unsatisfied
+949,F,32,Economy,5,3,3,1,5,3,4,88,65,Unsatisfied
+950,F,26,First Class,1,2,3,5,3,5,2,63,95,Satisfied
+951,M,66,First Class,1,3,1,3,3,5,5,5,117,Unsatisfied
+952,M,65,Economy,5,4,2,5,3,3,4,14,111,Neutral
+953,F,23,Economy,3,2,3,1,4,3,3,37,36,Satisfied
+954,M,50,Economy,1,5,3,5,2,2,2,45,85,Neutral
+955,M,72,Premium Economy,3,2,5,1,1,1,1,16,101,Satisfied
+956,M,38,First Class,1,3,5,4,3,4,1,32,25,Unsatisfied
+957,F,30,Business,3,4,3,3,5,5,3,16,18,Satisfied
+958,F,49,Premium Economy,5,4,1,1,1,2,1,25,90,Satisfied
+959,F,78,Business,3,3,2,4,4,4,4,26,14,Neutral
+960,F,36,Premium Economy,4,1,2,2,3,5,1,95,43,Satisfied
+961,F,50,Premium Economy,5,2,1,1,2,4,4,82,70,Unsatisfied
+962,F,62,First Class,4,3,5,3,1,2,4,77,18,Unsatisfied
+963,F,44,Premium Economy,1,4,3,3,1,2,4,34,26,Satisfied
+964,F,73,Premium Economy,1,2,2,3,5,5,5,81,58,Neutral
+965,F,79,Premium Economy,1,2,1,1,3,3,3,52,119,Neutral
+966,F,19,Business,2,5,4,1,3,3,1,6,71,Unsatisfied
+967,F,55,Economy,1,1,5,3,2,1,1,97,113,Neutral
+968,F,49,First Class,2,3,5,1,5,2,2,79,11,Satisfied
+969,M,76,First Class,4,1,4,5,3,3,1,19,97,Satisfied
+970,M,40,Business,4,2,2,4,5,4,4,26,89,Neutral
+971,F,53,Premium Economy,1,4,4,5,2,4,4,38,110,Unsatisfied
+972,M,61,First Class,3,4,5,5,2,2,2,91,62,Unsatisfied
+973,M,78,Economy,1,2,1,4,4,4,5,57,63,Satisfied
+974,M,40,First Class,2,5,3,4,3,4,1,78,19,Unsatisfied
+975,F,39,Business,1,3,5,2,5,2,4,116,84,Satisfied
+976,M,26,Premium Economy,2,4,2,4,4,5,1,61,93,Satisfied
+977,F,24,Economy,4,1,2,3,2,1,1,59,3,Satisfied
+978,M,57,Economy,2,2,2,3,2,5,1,80,22,Unsatisfied
+979,F,69,Economy,2,1,4,1,1,5,2,72,67,Neutral
+980,F,66,Business,2,2,5,4,1,3,1,90,35,Neutral
+981,M,49,Economy,1,1,1,1,3,5,2,75,96,Satisfied
+982,M,69,Economy,3,3,1,4,1,5,4,7,38,Satisfied
+983,M,50,Economy,1,3,2,5,1,4,1,11,98,Neutral
+984,M,45,Premium Economy,5,4,4,4,2,1,2,33,83,Satisfied
+985,F,57,Economy,2,5,4,5,1,3,4,8,9,Neutral
+986,M,37,Economy,4,5,2,2,1,2,1,64,31,Satisfied
+987,F,44,Premium Economy,4,4,2,5,1,2,5,92,7,Satisfied
+988,F,61,Economy,2,1,4,4,1,2,5,67,43,Unsatisfied
+989,M,80,Business,2,5,5,4,5,2,5,24,13,Unsatisfied
+990,F,23,Business,2,2,3,3,2,2,2,9,66,Neutral
+991,M,77,First Class,3,5,2,5,4,1,1,106,55,Unsatisfied
+992,M,22,Premium Economy,3,4,3,5,4,1,5,87,82,Satisfied
+993,F,53,Economy,3,1,5,5,3,3,2,113,93,Neutral
+994,F,66,Economy,1,3,3,3,4,3,2,38,52,Satisfied
+995,F,57,Economy,1,2,1,5,5,4,5,15,86,Satisfied
+996,F,62,Premium Economy,4,3,2,3,2,4,5,116,108,Neutral
+997,F,69,Economy,3,1,2,1,4,5,3,58,10,Satisfied
+998,M,71,Economy,5,4,5,3,1,4,2,10,81,Satisfied
+999,M,80,Business,4,2,4,2,3,5,2,56,42,Satisfied
+1000,F,57,Business,1,2,5,1,2,2,1,18,90,Satisfied
+1001,M,58,Premium Economy,5,3,4,4,4,2,4,33,47,Satisfied
