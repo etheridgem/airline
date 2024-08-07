@@ -11,7 +11,7 @@ These datasets includes satisfaction scores from over 120,000 airline passengers
 #### Objectives
 Customer Segmentation: Identify, characterize, and visualize different segments of passengers based on their satisfaction scores and travel patterns. 
 
-Product Insights: Analyze which features of the travel experience (e.g., cleanliness, comfort, service) have the most significant impact on overall satisfaction. TESTING!
+Product Insights: Analyze which features of the travel experience (e.g., cleanliness, comfort, service) have the most significant impact on overall satisfaction. 
 
 ---
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Running the Program:
 
-1. Fork the repository [repolink](https://github.com/etheridgem/airline_insights)
+1. Fork the repository [repolink] (https://github.com/etheridgem/airline)
 2. Clone the repository to your Github
 3. Access the repository from your command line or preferred CMD software
 4. Install a virtual environment. Below are directions are how to install per your machine:
@@ -43,14 +43,14 @@ Virtual Environment Commands
 
 | Create | `python3 -m venv venv` | `python -m venv venv` |
 
-| Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
+| Activate | `source venv/bin/activate` | `venv/Scripts/activate.vat` |
 
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 
 | Deactivate | `deactivate` | `deactivate` |
 
 1. Activate the virtual environment
-2. Install the requirments.txt file to install necessary packages by running 'pip install requirements.txt'
+2. Install the requirments.txt file to install necessary packages by running 'pip install -r requirements.txt'
 3. Run the 'enriched_airlinepassenger.ipynb' first. A database called 'airline_insights.db' will be created.
 4. Run the 'airline_analysis.ipynb' file to produce airline insights and visualizations.
 ---
