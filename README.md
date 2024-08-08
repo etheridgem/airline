@@ -68,5 +68,3 @@ Virtual Environment Commands
 -Best Practices: Implement a virtual environment, and provide a clear data dictionary or README.md.
 
 ---
-
-### Data Analysis Conclusions:
