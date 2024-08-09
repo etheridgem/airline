@@ -43,7 +43,7 @@ Virtual Environment Commands
 
 | Create | `python3 -m venv venv` | `python -m venv venv` |
 
-| Activate | `source venv/bin/activate` | `venv/Scripts/activate.vat` |
+| Activate | `source venv/bin/activate` | `venv/Scripts/activate.bat` |
 
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 
